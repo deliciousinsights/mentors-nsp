@@ -1,0 +1,6 @@
+[Settings]
+  ID = "cff32214-040c-4c49-ae08-be36ed169978"
+
+[Build]
+  Publish = "_book"
+  Functions = ""
