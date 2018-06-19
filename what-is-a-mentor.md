@@ -1,6 +1,6 @@
 # Qu’est-ce qu’un·e mentor ?
 
-Les mentors failitent l’événement, en fournissant un point d’aide garanti à celles et ceux qui découvrent et apprennent. On peut solliciter un mentor pour toute question qu’on a lorsqu’on travaille sur un atelier, et pour tout le reste aussi…
+Les mentors facilitent l’événement, en fournissant un point d’aide garanti à celles et ceux qui découvrent et apprennent. On peut solliciter un mentor pour toute question qu’on a lorsqu’on travaille sur un atelier, et pour tout le reste aussi…
 
 NodeSchool Paris (NSP) essaie d’avoir toujours au moins 6 mentors, idéalement à parité H/F voire dominante F, pour sa capacité effective de 60 personnes.
 
