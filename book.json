@@ -1,0 +1,17 @@
+{
+  "title": "Guide de mentoring NodeSchool Paris",
+  "description":
+    "Un guide pour les mentors (actuels et futurs) de NodeSchool Paris",
+  "author": "Christophe Porteneuve",
+  "language": "fr",
+  "plugins": ["github", "heading-anchors", "link-targets", "pretty-term"],
+  "pluginConfig": {
+    "link-targets": { "targets": { "http://": "_blank", "https://": "_blank" } }
+  },
+  "pluginsConfig": {
+    "__INFO__": "this config key is for plugins authored for older GitBook",
+    "github": {
+      "url": "https://github.com/deliciousinsights/mentors-nsp"
+    }
+  }
+}

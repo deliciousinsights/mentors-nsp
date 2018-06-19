@@ -9,7 +9,11 @@
   },
   "author": "Christophe Porteneuve <christophe@delicious-insights.com> (https://delicious-insights.com/)",
   "license": "MIT",
-  "dependencies": {
-    "gitbook-cli": "^2.3.2"
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-heading-anchors": "^1.0.3",
+    "gitbook-plugin-link-targets": "0.0.1",
+    "gitbook-plugin-pretty-term": "^1.0.2"
   }
 }

@@ -33,10 +33,9 @@ Il arrive aussi que des gens relisent **un autre énoncé** après avoir démarr
 
 Ça peut toujours servir si tu as un doute de compatibilité, etc.
 
-```bash
-node -v
-npm -v
-```
+{% term %}
+node -v && npm -v
+{% endterm %}
 
 Viser des versions encore maintenues, donc pour Node au moins la dernière 6 (Maintenance LTS jusqu’en avril 2019, viser la 6.11 au minimum, en juin 2018 on est à la 6.14.3), en préférant la 8.x voire la 10.x (qui sera maintenue jusqu’en avril 2021), ne serait-ce que parce que chaque version est plus rapide que la précédente.
 
