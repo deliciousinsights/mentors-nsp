@@ -2,7 +2,7 @@
 
 ## Un mot sur la VF
 
-Nombre d’ateliers (notamment les grands classiques et populaires) sont techniquement traduisibles (basés sur une version suffisamment récente de `workshopper`), et on fait l’objet d’un travail soigné de traduction par Jérémie et Christophe en 2015.
+Nombre d’ateliers (notamment les grands classiques et populaires) sont techniquement traduisibles (basés sur une version suffisamment récente de `workshopper`), et ont fait l’objet d’un travail soigné de traduction par Jérémie et Christophe en 2015.
 
 Un atelier multilingue le signale généralement par une option `CHOOSE LANGUAGE` en bas de menu, au sein de laquelle on peut alors prendre `Français` quand ça existe. Ce choix est persisté par la suite et réutilisé automatiquement.
 

@@ -48,19 +48,19 @@ Pour npm, préférer la 6.x. Si tu as une version antérieure, un `npm install -
 
 Tu ne devrais que très rarement avoir un vrai besoin de prendre la main sur le clavier et/ou la souris / le trackpad de la personne. Autant que possible, guide ses manipulations et laisse-la faire, même si c’est plus lent. On n’est pas dans un concours de vitesse !
 
-Si tu dois absolument prendre le clavier, par exemple pour attaque une session de débogage potentiellement velue (voir ci-dessous), demande toujours la permission avant (« tu permets que j’utilise ton clavier ? »), et attends une réponse claire pour y aller. Si besoin, déplace le laptop face à toi pour ne gêner ni l’espace personnel de la personne ni sa visibilité de l’écran.
+Si tu dois absolument prendre le clavier, par exemple pour attaquer une session de débogage potentiellement velue (voir ci-dessous), demande toujours la permission avant (« tu permets que j’utilise ton clavier ? »), et attends une réponse claire pour y aller. Si besoin, déplace le laptop face à toi pour ne gêner ni l’espace personnel de l’autre ni sa visibilité de l’écran.
 
 ## Exprimer son processus de décision / débgogage
 
 Si la connaissance technique est précieuse, l’acquisition d’un processus de débogage efficace est encore plus utile pour nos participant·e·s. C’est un des savoir-faire les plus précieux que tu puisses leur transmettre.
 
-Du coup, que tu aies ou non la main sur le clavier / la souris, vocalise systématiquement tes réflexions, questionnements, raisons pour tes actions et manip’s lors d’un débogage. Il faut permettre aux gens que tu aides d’entrer dans ta tête, en quelque sorte, de bien voir les questions que tu te poses, les pistes que tu explores et élimines, tout l’arbre de décision en quelque sorte. Fais-les participer autant que possible, explique tout en détail.
+Du coup, que tu aies ou non la main sur le clavier / la souris, vocalise systématiquement tes réflexions, questionnements, raisons pour tes actions et manip’s lors d’un débogage. Il faut permettre aux gens que tu aides d’entrer dans ta tête, en quelque sorte, de bien voir les questions que tu te poses, les pistes que tu explores et élimines, tout l’arbre de décision en fait. Fais-les participer autant que possible, explique tout en détail.
 
 ## Interroger, faire réfléchir
 
 Même quand tu as identifié le problème, ne fournis pas, autant que possible, la solution toute faite, sauf si c’est une faute de frappe ultra-basique (et même là, explique pourquoi c’est une erreur de syntaxe, le cas échéant).
 
-Au contraire, essaie de faire retrouver le problème à la personne en la questionnant, en orientant sa réflexion, façon [maïeutique socratienne](<https://fr.wikipedia.org/wiki/Ma%C3%AFeutique_(philosophie)>) (plus d’infos sur [son utilisation en pédagogie](http://www.pedagogie-active.fr/lecture_suivie/2-50.html)).
+Au contraire, essaie de faire retrouver le problème à la personne en la questionnant, en orientant sa réflexion, façon [maïeutique socratienne](http://bit.ly/2t7L0p1) (plus d’infos sur [son utilisation en pédagogie](http://www.pedagogie-active.fr/lecture_suivie/2-50.html)).
 
 C’est un vrai plaisir de voir le regard des gens s’illuminer quand ils comprennent « par eux-mêmes » le souci et comment y remédier, et ça ancre beaucoup mieux les savoirs. Ça les aide aussi énormément à prendre confiance.
 
@@ -68,8 +68,8 @@ C’est un vrai plaisir de voir le regard des gens s’illuminer quand ils compr
 
 Proscris absolument toute remarque négative, tout langage corporel négatif. Pas de soupirs, de roulements d’yeux / d’yeux au ciel, de moue énervée, pas de « tout le monde sait ça »…
 
-**Rien n’est évident quand on débute**. Et ne confonds pas **rapide** et **simple**, ou **simple** et **facile**. Donc attention aux tournures du genre de « tout simplement », « c’est tout bête », « évidemment », etc.
+**Rien n’est évident quand on débute**. Et ne confonds pas **rapide** et **simple**, ou **simple** et **facile**. Donc attention aux tournures du genre de _« tout simplement »_, _« c’est tout bête »_, _« évidemment »_, etc.
 
-On peut bien sûr chercher à démystifier l’apparente complexité, mais des tournures comme « tu vas voir, c’est nettement moins compliqué que tu ne le penses », ou « ça peut surprendre au début, mais tu vas vite comprendre… » sont préférables. De même, « pas très compliqué » ou « pas très avancé » sont mieux que « simple » et « facile ».
+On peut bien sûr chercher à démystifier l’apparente complexité, mais des tournures comme _« tu vas voir, c’est nettement moins compliqué que tu ne le penses »_, ou _« ça peut surprendre au début, mais tu vas vite comprendre… »_ sont préférables. De même, _« pas très compliqué »_ ou _« pas très avancé »_ sont mieux que _« simple »_ et _« facile »_.
 
-Et ne pas oublier d’encourager les gens et de les féliciter quand ils arrivent au bout de leur problème. Ça ne coûte rien et ça aide énormément.
+Et n’oublie pas d’encourager les gens et de les féliciter quand ils arrivent au bout de leur problème. Ça ne coûte rien et ça aide énormément.

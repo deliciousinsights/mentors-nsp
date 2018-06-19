@@ -1,6 +1,6 @@
 # Qu’est-ce qu’un·e mentor ?
 
-Les mentors failitent l’événement, en fournissant un point d’aide garanti à celles et ceux qui découvrent et apprennent. On peut solliciter un mentor pour toute question qu’on a lorsqu’on travaille sur un atelier, et pour tout le reste aussi…
+Les mentors facilitent l’événement, en fournissant un point d’aide garanti à celles et ceux qui découvrent et apprennent. On peut solliciter un mentor pour toute question qu’on a lorsqu’on travaille sur un atelier, et pour tout le reste aussi…
 
 NodeSchool Paris (NSP) essaie d’avoir toujours au moins 6 mentors, idéalement à parité H/F voire dominante F, pour sa capacité effective de 60 personnes.
 
@@ -8,7 +8,7 @@ NodeSchool Paris (NSP) essaie d’avoir toujours au moins 6 mentors, idéalement
 
 **TL;DR: OUI 😁**
 
-Il n’est absolument pas nécessaire d’être particulièrement balèze en Node, ou même en JS, pour mentorer chez NSP ; au moins la moitié de l'auditoire sont des grands débutants Node voire JS… Mais même pour les gens plus à l’aise, les ateliers « grands classiques » ne sont pas particulièrement difficiles.
+Il n’est absolument pas nécessaire d’être particulièrement balèze en Node, ou même en JS, pour mentorer chez NSP ; au moins la moitié de l'auditoire sont des grands débutants Node voire JS… Mais même pour les gens plus à l’aise et qui auraient des problèmes plus fins, de notre côté maîtriser les ateliers « grands classiques » n’est pas particulièrement difficile.
 
 Dès l’instant où tu as un peu d’expérience en JS, et idéalement en Node, tu as quelque chose à offrir à NSP.
 

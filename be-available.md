@@ -27,7 +27,7 @@ Le midi, on a d’autres basiques :
 
 Établis un contact visuel avec les gens quand tu es dans la salle, cela les aide à oser poser leurs questions. Et d’une façon générale, aie l’air le plus avenant possible : détendu·e, souriant·e !
 
-Par ailleurs, si tu as tendance à aller discuter avec des ami·e·s / d’autres mentors quand tu n’es pas sollicité·e, il peut être utile de préciser en amont, par exemple lors de l’introduction, que même dans de telles situations le public ne doit pas hésiter à te solliciter. Cela fait généralement l’objet d’une annonce générale à l’intro, pour renforcer le truc.
+Par ailleurs, si tu as tendance à aller discuter avec des ami·e·s / d’autres mentors quand tu n’es pas sollicité·e, il peut être utile de préciser en amont, par exemple lors de l’introduction, que même dans de telles situations le public ne doit pas hésiter à te solliciter. Cela fait généralement l’objet d’une annonce globale à l’intro, pour renforcer le truc.
 
 Christophe, par exemple, a tendance à être au pupitre central quand il ne répond pas à une question, en train de bosser sur son laptop. Naturellement, il reste avant tout disponible pour l’auditoire.
 
