@@ -17,6 +17,6 @@ Dès l’instant où tu as un peu d’expérience en JS, et idéalement en Node,
 Au fil du temps, on a eu pas mal de mentors, mais le « noyau dur » (celles et ceux qui sont venus au moins 5-6 fois, quoi) est assez réduit :
 
 - Jérémie Patonnier, bien sûr (Mozilla)
-- Marie Terrier (Oh My Bot!)
+- Marie Terrier (Yelda)
 - Quentin Raynaud (Freelance Academy, L.Systems, Node.js Paris)
 - Christophe Porteneuve (Delicious Insights)

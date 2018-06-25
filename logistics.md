@@ -57,7 +57,7 @@ Pour remédier à cela, le moyen le plus sûr est de disposer d’un **pool sans
 
 L’horaire public annoncé est **10h–18h30**. En pratique, on attend des mentors qu’ils·elles soient présent·e·s **vers 9h30**, pour aider notamment à la mise en place de la salle (tables, chaises, rallonges et multiprises électriques).
 
-Le code des deux premiers claviers (rue et sas intérieur) est `1792`. Ensuite, on sonne sur l’interphone à visio à droite de la porte de Mozilla (dernière porte à droite avant la cour), et on monte l’escalier Firefox du fond, puis on entre par la droite au niveau de l’accueil.
+Le code des deux premiers claviers (rue et sas intérieur) est `9313`. Ensuite, on sonne sur l’interphone à visio à droite de la porte de Mozilla (dernière porte à droite avant la cour), et on monte l’escalier Firefox du fond, puis on entre par la droite au niveau de l’accueil.
 
 Le découpage classique est le suivant :
 

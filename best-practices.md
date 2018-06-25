@@ -29,6 +29,25 @@ Sur la plupart des exos, ça se fait avec un simple `commande-de-l-atelier print
 
 Il arrive aussi que des gens relisent **un autre énoncé** après avoir démarré un exo, ce qui change l’exo actif pour l’atelier, et fait que les sous-commandes `run` et `verify` n’envoient plus les bons environnements d’exécution. Re-sélectionner l’énoncé manuellement permet de remettre les choses d’aplomb.
 
+## Aller regarder les bonnes docs
+
+Un doute sur un aspect du langage ? Sur une méthode de l'API standard JavaScript ? Sur une de Node ? Sur un module ?
+
+Apprends-leur à aller chercher la bonne doc !
+
+- Un aspect du langage ?
+  - [Le guide JS sur le MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript) (fr)
+  - [La série ES6 In Depth du MDN](https://hacks.mozilla.org/category/es6-in-depth/) (en)
+  - Une recherche Google avec toujours `mdn` dedans, genre [`reduce mdn`](https://www.google.com/search?q=reduce%20mdn)
+- Une méthode de l’API standard ?
+  - [La référence du MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux) (fr), par exemple pour [`Array#reduce()`](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/reduce)
+- Une méthode de l’API Node ?
+  - [La doc officielle](https://nodejs.org/api/) (en)
+- Un module tiers ? Ouvrir sa doc, par exemple avec…
+  - `npm home le-module`
+  - L’URL `ghub.io/le-module`
+  - Si ça ne marche pas, l’URL `npm.im/le-module` et suivre le lien GitHub
+
 ## Vérifier les versions de Node et npm
 
 Ça peut toujours servir si tu as un doute de compatibilité, etc.
