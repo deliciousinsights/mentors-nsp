@@ -4,7 +4,7 @@ Lorsqu’on intervient auprès d’une personne pour l’aider, il est facile de
 
 ## Personnaliser la relation
 
-Si tu n’a pas encore discuté avec cette personne, commence par personnaliser, du genre : _« salut, moi c’est … Et toi, tu t’appelles…? »_
+Si tu n’as pas encore discuté avec cette personne, commence par personnaliser, du genre : _« salut, moi c’est … Et toi, tu t’appelles…? »_
 
 ## Se placer à niveau verticalement
 
@@ -25,7 +25,7 @@ Voir aussi plus bas « Rester constructifs ».
 
 Si tu n’es plus sûr·e de l’énoncé (ou que tu ne connais pas cet exo), ou simplement parce que tu veux t’assurer que la personne a bien compris les données et n’a pas lu en diagonale, pour amorcer votre réflexion, n’hésite pas à remontrer l’énoncé.
 
-Sur la plupart des exos, ça se fait avec un simple `commande-de-l-atelier print`, par exemple `learnyounode print`. Si ça ne marche pas, lance la commande et resélectionne l’énoncé.
+Sur la plupart des exos, ça se fait avec un simple `commande-de-l-atelier print`, par exemple `learnyounode print`. Si ça ne marche pas, lance la commande et re-sélectionne l’énoncé.
 
 Il arrive aussi que des gens relisent **un autre énoncé** après avoir démarré un exo, ce qui change l’exo actif pour l’atelier, et fait que les sous-commandes `run` et `verify` n’envoient plus les bons environnements d’exécution. Re-sélectionner l’énoncé manuellement permet de remettre les choses d’aplomb.
 
